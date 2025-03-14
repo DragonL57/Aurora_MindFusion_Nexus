@@ -3,3 +3,4 @@ python-dotenv
 markdown
 google-genai
 rich
+nest_asyncio
